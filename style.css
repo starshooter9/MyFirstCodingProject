@@ -1,0 +1,100 @@
+html {
+  background-color:#5a6bfc;
+  }
+body {
+  height: 100%;
+  text-align:center;
+}
+nav {background-color:#b6a5f7;
+padding:1.0em;
+border-style:dotted;
+border-color:white;
+}
+
+nav a {
+  font-size:40px;
+  text-align:center;
+}
+#first {
+  color:purple;
+}
+
+a:link {
+  color: white;
+}
+a:visited {
+  color:purple;
+}
+a:hover{
+  color:green;
+}
+a:active {
+  color:blue;
+}
+p {
+  font-family:"Advent Pro"; font-size:22px;
+  text-align:center;
+}
+h1{
+  text-align:center;
+  font-family:cursive;
+}
+.picture{
+display:block;
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+}
+
+/*contact*/
+
+.mail{
+text-align:left;
+position:absolute;
+bottom:5px;
+background-size: 1em;
+background-color:pink;
+border-style: solid;
+}
+.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+h2{
+  text-align:center;
+  font-family:cursive;
+}
+h3{
+  text-align:center;
+  font-family:cursive;
+}
+#contactpage{
+  background-color:#7dedd6;
+}
+
+form {
+    border: 5px dashed black;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    font-family: "Comic Sans MS";
+}
+textarea{
+width:100%;
+box-sizing:border-box;
+}
+.mail{
+text-align:left;
+position:absolute;
+bottom:5px;
+background-size: 1em;
+background-color:pink;
+border-style: solid black;
+}
+footer{
+position: relative;
+margin-top: 0px;
+height:1px;
+clear:both;
+}
